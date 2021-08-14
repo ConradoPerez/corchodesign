@@ -90,6 +90,8 @@ footer {
   margin: 0px;
   color: black;
   font-size: larger; }
+  footer #secciones {
+    justify-content: center; }
 
 .aside {
   display: grid;
